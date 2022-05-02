@@ -58,10 +58,40 @@ export default function App() {
           <img className="photo" src="70.png?text=Page+13" />
         </div>
         <div className="demoPage14">
-          <img className="photo" src="73.png?text=Page+Last" />
+          <img className="photo" src="73.png?text=Page+14" />
         </div>
-        <div className="demoPage13">
-          <img className="photo" src="leather.jpeg?text=Page+Last" />
+        <div className="demoPage15">
+          <img className="photo" src="leather.jpeg?text=Page+15" />
+        </div>
+        <div className="demoPage16">
+          <img className="photo" src="leather.jpeg?text=Page+16" />
+        </div>
+        <div className="demoPage17">
+          <img className="photo" src="leather.jpeg?text=Page+17" />
+        </div>
+        <div className="demoPage18">
+          <img className="photo" src="leather.jpeg?text=Page+18" />
+        </div>
+        <div className="demoPage19">
+          <img className="photo" src="leather.jpeg?text=Page+19" />
+        </div>
+        <div className="demoPage20">
+          <img className="photo" src="leather.jpeg?text=Page+20" />
+        </div>
+        <div className="demoPage21">
+          <img className="photo" src="leather.jpeg?text=Page+21" />
+        </div>
+        <div className="demoPage22">
+          <img className="photo" src="leather.jpeg?text=Page+22" />
+        </div>
+        <div className="demoPage23">
+          <img className="photo" src="leather.jpeg?text=Page+23" />
+          </div>
+          <div className="demoPage24">
+          <img className="photo" src="leather.jpeg?text=Page+24" />
+        </div>
+        <div className="demoPage25">
+          <img className="photo" src="leather.jpeg?text=Page+25" />
         </div>
       </HTMLFlipBook>
     </div>
